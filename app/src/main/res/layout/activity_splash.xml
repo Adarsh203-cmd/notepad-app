@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <ImageView
+        android:id="@+id/splash_image"
+        android:layout_width="290dp"
+        android:layout_height="200dp"
+        android:src="@drawable/deleteac"
+        android:layout_centerInParent="true" />
+
+    <TextView
+        android:id="@+id/splash_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Account deleted successfully!!"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:layout_below="@id/splash_image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:textAlignment="center" />
+</RelativeLayout>

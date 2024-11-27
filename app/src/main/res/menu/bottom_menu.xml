@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:id="@+id/archive"
+        android:title="Archive"
+        android:icon="@drawable/baseline_archive_24"
+        />
+    <item
+        android:id="@+id/recycle_bin"
+        android:title="Bin"
+        android:icon="@drawable/ic_recycle_bin"
+        />
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"
+        />
+
+</menu>

@@ -1,0 +1,47 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="10dp"
+    android:padding="16dp"
+    android:background="@android:color/black"
+    android:clickable="true"
+    android:focusable="true">
+
+    <!-- Hidden Checkbox (optional) -->
+    <CheckBox
+        android:id="@+id/noteCheckbox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_gravity="center_vertical" />
+
+    <!-- Vertical container for title and note text -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:paddingLeft="16dp">
+
+        <!-- Note Title -->
+        <TextView
+            android:id="@+id/noteTitle1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Title 1"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white" />
+
+        <!-- Note Text -->
+        <TextView
+            android:id="@+id/noteText1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Some note... xyz..."
+            android:textSize="14sp"
+            android:textColor="@android:color/darker_gray" />
+    </LinearLayout>
+</LinearLayout>

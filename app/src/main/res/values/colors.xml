@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#9BD2D9</color><!-- Light gray color -->
+    <color name="button">#1D1D1D</color>
+    <color name="Upbutton">#E91E63</color>
+    <color name="layoutbackgroud">#F6F69A</color>
+    <color name="blue">#ADC3D5</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="lavender">#8692f7</color>
+    <color name="grey">#76767A</color>
+
+    <!-- New Pastel Theme Colors -->
+    <color name="pastel_primary">#FFEBE6E6</color>
+    <color name="pastel_primary_variant">#FFD4C4C4</color>
+    <color name="pastel_on_primary">#FF4E4E4E</color>
+    <color name="pastel_accent">#FFA8D1E7</color>
+
+    <!-- New Gradient Theme Colors -->
+    <color name="gradient_primary">#FF84DCC6</color> <!-- Soft turquoise -->
+    <color name="gradient_primary_variant">#FFA5FFD6</color> <!-- Pale mint -->
+    <color name="gradient_on_primary">#FF243B4A</color> <!-- Dark navy -->
+    <color name="gradient_accent">#FFFED7E2</color> <!-- Soft coral pink -->
+
+    <!-- New Blue Theme Colors -->
+    <color name="blue_primary">#FF007AFF</color> <!-- iOS-like blue -->
+    <color name="blue_primary_variant">#FF0044CC</color> <!-- Deeper blue -->
+    <color name="blue_on_primary">#FFFFFFFF</color> <!-- White text on blue -->
+    <color name="blue_accent">#FF33A1FF</color> <!-- Lighter blue accent -->
+
+    <!-- New Neutral/Soft Theme -->
+    <color name="neutral_primary">#FFE8E8E8</color> <!-- Very light grey -->
+    <color name="neutral_primary_variant">#FFD1D1D1</color> <!-- Slightly darker grey -->
+    <color name="neutral_on_primary">#FF333333</color> <!-- Dark grey for text -->
+    <color name="neutral_accent">#FFB2B2B2</color>
+    <color name="light_purple">#ADC4F8</color>
+    <color name="colorPrimary">#CBC2C1</color> <!-- Soft grey accent -->
+</resources>
