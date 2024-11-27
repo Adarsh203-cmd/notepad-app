@@ -1,3 +1,18 @@
+## Screenshots
+
+### Home Page
+![Home Page](ScreenShots/home.jpeg)
+
+### Profile Page
+![Profile Page](ScreenShots/profile.jpeg)
+
+### Login Page
+![Login Page](ScreenShots/Login.jpg)
+
+### Signup Page
+![Signup Page](ScreenShots/signUp.jpeg)
+
+
 **Notepad Android App**
 
 A simple Android app that lets you keep and manage notes. Add, delete, and archive notes with a user profile page for managing personal data.
